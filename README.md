@@ -18,7 +18,9 @@ Mehdi
     <img src="image/flutter.png" width=50 >
     <img src="image/dart.png" width=50 >
     <img src="image/svg/machin_learnig.svg" width=50 >
+    <img src="image/svg/wordpress.svg" width=50 >
     <img src="image/svg/python.svg" width=50 >
+    <img src="image/svg/sql-database.svg" width=50 >
     <img src="image/java.png" width=50 >
     <img src="image/django.png" width=50 >
     <img src="image/api.png" width=50 >
@@ -32,5 +34,13 @@ Mehdi
     <img src="image/macos.png" width=50 >
     <img src="image/android.png" width=50 >
     <img src="image/linux.png" width=50 >
+    <img src="image/svg/jquery.svg" width=50 >
+    <img src="image/svg/jquery-ui.svg" width=50 >
+    <img src="image/svg/xml.svg" width=50 >
+    <img src="image/svg/git.svg" width=50 >
+    <img src="image/svg/bash.svg" width=50 >
+    <img src="image/svg/security.svg" width=50 >
+    <img src="image/svg/web-crawler.svg" width=50 >
+    <img src="image/svg/cython.svg" width=50 >
 
 </div>
