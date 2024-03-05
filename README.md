@@ -21,14 +21,14 @@ Mehdi
     <img src="image/svg/wordpress.svg" width=50 >
     <img src="image/svg/python.svg" width=50 >
     <img src="image/svg/sql-database.svg" width=50 >
-    <img src="image/java.png" width=50 >
-    <img src="image/django.png" width=50 >
-    <img src="image/api.png" width=50 >
+    <img src="image/svg/java.svg" width=50 >
+    <img src="image/svg/django.svg" width=50 >
+    <img src="image/svg/api.svg" width=50 >
     <img src="image/multy_platfroms.png" width=50 >
     <img src="image/js.png" width=50 >
-    <img src="image/html.png" width=50 >
-    <img src="image/css.png" width=35 >
-    <img src="image/windows.png" width=50 >
+    <img src="image/svg/html-5.svg" width=50 >
+    <img src="image/svg/css-3.svg" width=50 >
+    <img src="image/svg/windows.svg" width=50 >
     <img src="image/web.png" width=50 >
     <img src="image/ios.png" width=50 >
     <img src="image/macos.png" width=50 >
