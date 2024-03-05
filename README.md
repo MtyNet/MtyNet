@@ -13,7 +13,7 @@ If you have any questions or would like to collaborate, please contact me at mty
 Thanks,
 Mehdi
 
-<div style="display: flex; align-items: center; gap: 5px;flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 5px;flex-wrap: wrap;background-color:#f0f0f0f0;">
     <img src="image/svg/blok_code.svg" width=50 >
     <img src="image/flutter.png" width=50 >
     <img src="image/dart.png" width=50 >
