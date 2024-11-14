@@ -14,6 +14,8 @@ Thanks,
 Mehdi
 
 <div style="display: flex; align-items: center; gap: 5px;flex-wrap: wrap;background-color:#f0f0f0ff;">
+    <img src="image/svg/web_socket.png" width=50 >
+    <img src="image/svg/web_rtc.png" width=50 >
     <img src="image/svg/blok_code.svg" width=50 >
     <img src="image/flutter.png" width=50 >
     <img src="image/dart.png" width=50 >
