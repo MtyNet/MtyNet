@@ -8,7 +8,7 @@ I am currently in the process of learning and continuously improving my skills a
 
 If you have any questions or would like to collaborate, please contact me at mty4shabani@gmail.com. I look forward to hearing from you!
 
-[my telegram](https://t.me/Mty_Shabani) **@Mty_Shabani**
+[my telegram](https://t.me/MtyNet) **@Mty_Shabani**
 
 Thanks,
 Mehdi
